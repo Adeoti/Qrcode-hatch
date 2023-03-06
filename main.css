@@ -1,0 +1,8 @@
+.stackbottom{
+	position:fixed;
+	bottom:0px;
+	display:absolute;
+}
+body{
+	background:red;
+}
